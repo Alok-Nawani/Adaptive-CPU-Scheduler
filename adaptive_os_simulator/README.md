@@ -5,7 +5,7 @@ Features
 --------
 - Mini OS terminal (add/list/run/stats/exit)
 - Policies: RR, SJF (non-preemptive), SRTF (preemptive), Priority, FCFS
-- Rule-based and ML-like adaptive policy switching
+- Rule-based and ML-like adaptive policy switching 
 - Event logging (policy switches, process events)
 - Gantt chart visualization with policy annotations
 
